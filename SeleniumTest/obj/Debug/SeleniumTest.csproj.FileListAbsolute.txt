@@ -1,0 +1,17 @@
+c:\users\техносила\documents\visual studio 2012\Projects\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.dll
+c:\users\техносила\documents\visual studio 2012\Projects\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.pdb
+c:\users\техносила\documents\visual studio 2012\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.dll
+c:\users\техносила\documents\visual studio 2012\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.Support.dll
+c:\users\техносила\documents\visual studio 2012\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.xml
+c:\users\техносила\documents\visual studio 2012\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.Support.xml
+c:\users\техносила\documents\visual studio 2012\Projects\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.dll
+c:\users\техносила\documents\visual studio 2012\Projects\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.pdb
+c:\users\техносила\documents\visual studio 2012\Projects\SeleniumTest\SeleniumTest\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+c:\users\техносила\documents\visual studio 2012\Projects\SeleniumTest\SeleniumTest\bin\Debug\ThoughtWorks.Selenium.Core.dll
+c:\users\техносила\documents\visual studio 2012\Projects\SeleniumTest\SeleniumTest\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+c:\users\техносила\documents\visual studio 2012\Projects\SeleniumTest\SeleniumTest\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+c:\users\техносила\documents\visual studio 2012\Projects\SeleniumTest\SeleniumTest\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+c:\users\техносила\documents\visual studio 2012\Projects\SeleniumTest\SeleniumTest\bin\Debug\ThoughtWorks.Selenium.Core.xml
+c:\users\техносила\documents\visual studio 2012\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.pdb
+c:\users\техносила\documents\visual studio 2012\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.Support.pdb
+C:\Users\техносила\documents\visual studio 2012\Projects\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csprojResolveAssemblyReference.cache
